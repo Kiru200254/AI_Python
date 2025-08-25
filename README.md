@@ -43,5 +43,5 @@ This repository showcases various AI projects developed using Python. Each proje
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/ai-projects-collection.git
-   cd ai-projects-collection
+   https://github.com/Kiru200254/AI_Python.git
+   cd AI_Python
